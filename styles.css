@@ -1,11 +1,22 @@
-.div,.div2,.div3,.div4{
-            border-style: solid;
-            height: auto;
-            
-        }
-        div .margin{
-            margin-top:0%;
-        }
-        .div .blue{
-           padding-left: 15px;
-        }
+body{
+	padding:20px;
+	border: 1px solid;
+}
+main{
+	border: 1px solid;
+	background-color: rgb(74, 74, 220);
+}
+#dark{
+	margin:20px;
+	border: 1px solid;
+}
+#green{
+	border: 1px solid;
+	padding: 10px;
+	background-color: aquamarine;
+}
+#border{
+	border-style: dashed;
+	background-color: aquamarine;
+	width: 300px;
+}
